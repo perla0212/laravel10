@@ -34,7 +34,7 @@
                 d=" M 510.7 189.151 C 505.271 168.95 484.565 156.956 464.365 162.385 L 330.156 198.367 L 155.924 35.878 L 107.19 49.008 L 211.729 230.183 L 86.232 263.767 L 36.614 224.754 L 0 234.603 L 45.957 314.27 L 65.274 347.727 L 105.802 336.869 L 240.011 300.886 L 349.726 271.469 L 483.935 235.486 C 504.134 230.057 516.129 209.352 510.7 189.151 Z "
               />
             </svg>
-            TURISMO MAZATLAN
+             EL TURISMO MAZATLAN
           </a>
         </div>
         <div class="block lg:hidden pr-4">
@@ -69,10 +69,10 @@
         <div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
           <p class="uppercase tracking-loose w-full">Has pensado en Viajar??$argv</p>
           <h1 class="my-4 text-5xl font-bold leading-tight">
-            Te invitamos a viajar a Mazatlan!
+            ¡Te invitamos a viajar a Mazatlan!
           </h1>
           <p class="leading-normal text-2xl mb-8">
-           ¡Descubre la magia y tradiciones de Mazatlán: Un viaje lingüístico por la joya del Pacífico!
+           ¡Descubre la magia y tradiciones de Mazatlán: Un viaje lingüístico por la joya del Pacífico Prefecto !
           </p>
           
         </div>
